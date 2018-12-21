@@ -55,4 +55,4 @@ client.on('message', message => {
         }
     });
 
-client.login('NTI1NzcxMjAxNDE5ODA0Njc0.Dv7eKw.E3gifupPelu82g31vSs2U-MYokY');
+client.login('process.env.BOT_TOKEN');
